@@ -11,18 +11,16 @@ public class Sample1Test {
         @BeforeTest
         public void start() {
 
-            //WebDriver safariDriver = new SafariDriver();
-            //WebDriver chromeDriver = new ChromeDriver();
 
 
-            //safariDriver.get(baseUrl);
+
             chromeDriver.get(baseUrl);
         }
         @Test
         public void main() {
-            //System.out.println("Safari title = " + safariDriver.getTitle());
+
             String title = chromeDriver.getTitle();
-            //safariDriver.quit();
+
             Assert.assertEquals(title, "Welcome: Mercury Tours");
 
         }

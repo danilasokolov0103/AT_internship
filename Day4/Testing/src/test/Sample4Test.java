@@ -39,7 +39,7 @@ public class Sample4Test {
 
             int exitVal = exec.waitFor();
             File f = new File("/Users/danilasokolov/Downloads/test/msgr11us.exe");
-            //System.out.println(f.isFile());
+
             Assert.assertTrue(f.isFile());
             System.out.println("Exit value: " + exitVal);
         }catch (InterruptedException | IOException ex) {
