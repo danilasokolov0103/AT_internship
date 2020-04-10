@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be3acdf1-eea4-485e-99cd-d340d0859e31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aJNCNvMxuecnA9pyi8zkwi66c7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="TestNG.ValidationDemoTest">
+    <configuration name="ToolTipTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ToolTipTest" />
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ValidationDemoTest" />
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SampleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTipTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ToolTipTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
+      <module name="Testing" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Sample4Test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ValidationDemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="Application.ToolTipTest" />
+      <item itemvalue="TestNG.ToolTipTest" />
+      <item itemvalue="TestNG.SampleTest" />
+      <item itemvalue="Application.ValidationDemoTest" />
+      <item itemvalue="TestNG.ValidationDemoTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ValidationDemoTest" />
+        <item itemvalue="Application.ValidationDemoTest" />
+        <item itemvalue="TestNG.SampleTest" />
+        <item itemvalue="TestNG.ToolTipTest" />
+        <item itemvalue="Application.ToolTipTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be3acdf1-eea4-485e-99cd-d340d0859e31" name="Default Changelist" comment="" />
+      <created>1586449608123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586449608123</updated>
+      <workItem from="1586449609667" duration="13509000" />
+      <workItem from="1586517169975" duration="2556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586517653194">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1586517653194" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1586519912533">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586519912533" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1586514149628" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1586519912530">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586519912530" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1586514149625" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1586519912529">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586519912529" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1586514149624" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1586519912532">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586519912532" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1586514149627" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1586517163971">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586517163971" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1586517163970">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1586517163970" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1586517163969">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1586517163969" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1586517163970">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1586517163970" />
+    <state x="138" y="0" key="SettingsEditor" timestamp="1586458751015">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="138" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1586458751015" />
+    <state x="138" y="23" key="SettingsEditor/0.23.1280.733@0.23.1280.733" timestamp="1586453694845" />
+    <state x="362" y="301" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586457778032">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="362" y="301" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800@0.0.1280.800" timestamp="1586457778032" />
+  </component>
+</project>
